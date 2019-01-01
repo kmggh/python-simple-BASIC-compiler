@@ -1,0 +1,8 @@
+*~
+*.pyc
+.pytest_cache
+*.PKL
+dist/
+basic_lang.egg-info
+bas_pro/SQRT.BAS
+

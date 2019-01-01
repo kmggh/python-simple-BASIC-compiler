@@ -1,0 +1,5 @@
+10 LET X = 10
+20 LET Y = 15
+30 LET Z = X + Y
+40 PRINT "ANSWER = "
+50 PRINT Z

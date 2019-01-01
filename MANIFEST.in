@@ -1,0 +1,7 @@
+include README.md
+include VERSIONS.md
+include Pipfile
+include Pipfile.lock
+include dev/*
+include bas_pro/*
+include tests/*
